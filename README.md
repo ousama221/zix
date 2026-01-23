@@ -22,7 +22,7 @@
 Zix is a modern web framework for the Zig programming language. It provides a familiar, intuitive API for building web applications while leveraging Zig's performance, memory safety, and compile-time guarantees.
 
 > [!NOTE]
-> zix is a work in progress and Docs are not yet ready.
+> Zix is a work in progress and Docs are not yet ready but you can use `zig build docs` to generate docs.
 
 **⭐️ If you love `zix`, make sure to give it a star! ⭐️**
 
