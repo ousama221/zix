@@ -1,0 +1,15 @@
+# Zig
+.zig-cache/
+zig-out/
+
+# Node/VitePress
+docs/node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

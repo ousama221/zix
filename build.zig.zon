@@ -1,0 +1,15 @@
+.{
+    .name = .zix,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.15.0",
+    .fingerprint = 0x4cc61d745e6c7589,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "examples",
+        "README.md",
+        "LICENSE",
+    },
+}
